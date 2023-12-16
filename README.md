@@ -1,5 +1,5 @@
 # BakkesLeague-Launcher
-A .bat file to launch both Bakkesmod and Rocket League, allowing your plugins and game to both load in just one click.
+A .bat file to launch both Bakkesmod and Rocket League, allowing your plugins and game to both load in just one click. No installation or setup required!
 
 It is mapped to the default installation locations for both Bakkesmod and Rocket League.
 If your Bakkesmod and/or Rocket League is not installed in these locations, have no fear!
