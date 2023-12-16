@@ -12,4 +12,4 @@ Step-by-step solution:
 
 TLDR: Replace the corresponding file paths in launcher.bat with cd /d "YOUR_PATH_HERE".
 
-## Feel free to open an issue ticket if you have any problems or questions!
+## Feel free to open an issue ticket (in the top menu) if you have any problems or questions!
