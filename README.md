@@ -12,6 +12,6 @@ Step-by-step solution:
 
 TLDR: Replace the corresponding file paths in launcher.bat with cd /d "YOUR_PATH_HERE".
 
-Finally, double-click on launcher.bat to run the program.
+Finally, double-click on launcher.bat to run the program. It may take a few seconds to launch Rocket League, but Bakkesmod should launch right away.
 
 ## Feel free to open an issue ticket (in the top menu) if you have any problems or questions!
