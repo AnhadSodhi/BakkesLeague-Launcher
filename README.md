@@ -9,3 +9,5 @@ A .bat file to launch both Bakkesmod and Rocket League, allowing your plugins an
 
 If you changed the file paths after setting up, have no fear! Simply run setup.bat again and it will give you a new, updated launcher.bat.
 ## Feel free to open an issue ticket (in the top menu) if you have any problems or questions!
+
+<sub> launcher.bat code written with assistance from ChatGPT 3.5 on December 22, 2023. </sub>
