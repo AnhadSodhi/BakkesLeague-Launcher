@@ -19,4 +19,3 @@ for %%p in (%search_programs%) do (
 )
 
 endlocal
-pause
