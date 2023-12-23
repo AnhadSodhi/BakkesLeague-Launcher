@@ -4,6 +4,7 @@ A .bat file to launch both Bakkesmod and Rocket League, allowing your plugins an
 ## Installation instructions
 **My Bakkesmod and Rocket League are installed in the default folders**
 * Download launcher.bat and double click on it to launch Bakkesmod and Rocket League.
+
 **My Bakkesmod and Rocket League are NOT installed in the default folders/I am not sure**
 * Download setup.bat and run it (it may take a few seconds to finish running). It will create a launcher.bat with the correct file paths. Double click on launcher.bat to launch Bakkesmod and Rocket League.
 
